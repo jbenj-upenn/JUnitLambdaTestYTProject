@@ -8,3 +8,7 @@
 ##### Set up JUnit Standalone Command Launcher to run tests from the CLI. Note commands for set up in the screenshot. Search the Maven Repository for JUnit Standalone Launcher.
 
 ![](C:\Documents and Settings\Admin\Documents\1Professional Documents\DevX\JUnitLambdaTestYTProject\READMEscreenshots\commandLineSetUp.png)
+
+##### Around 00:26:45, there is a discussion on downloading Maven to run everything from the commandline
+
+![](C:\Documents and Settings\Admin\Documents\1Professional Documents\DevX\JUnitLambdaTestYTProject\READMEscreenshots\mavenDownload.png)
