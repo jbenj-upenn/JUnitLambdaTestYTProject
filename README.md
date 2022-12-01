@@ -1,7 +1,12 @@
 # JUnitLambdaTestYTProject
 
 ### Further practice with J-Unit
-## Thanks to Lambda Test for the tutorial on youtube: https://www.youtube.com/watch?v=HXtC-a_4HAc&list=PLZMWkkQEwOPn68qzCGJl07ZbnI7Ix5zKU
+
+### Acknowledgements and Resources
+
+##### Thanks to Lambda Test for the tutorial on youtube: https://www.youtube.com/watch?v=HXtC-a_4HAc&list=PLZMWkkQEwOPn68qzCGJl07ZbnI7Ix5zKU
+##### JUnit User Guide: https://junit.org/junit5/docs/current/user-guide/#overview
+##### Maven Repository: https://mvnrepository.com/
 
 ### Screenshots
 
@@ -16,3 +21,4 @@
 ##### Surefire dependency for running tests from command line
 
 ![](C:\Documents and Settings\Admin\Documents\1Professional Documents\DevX\JUnitLambdaTestYTProject\READMEscreenshots\surefireDependency.png)
+
