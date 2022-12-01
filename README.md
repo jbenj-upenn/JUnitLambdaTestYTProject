@@ -12,3 +12,7 @@
 ##### Around 00:26:45, there is a discussion on downloading Maven to run everything from the commandline
 
 ![](C:\Documents and Settings\Admin\Documents\1Professional Documents\DevX\JUnitLambdaTestYTProject\READMEscreenshots\mavenDownload.png)
+
+##### Surefire dependency for running tests from command line
+
+![](C:\Documents and Settings\Admin\Documents\1Professional Documents\DevX\JUnitLambdaTestYTProject\READMEscreenshots\surefireDependency.png)
