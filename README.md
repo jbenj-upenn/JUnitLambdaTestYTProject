@@ -22,3 +22,9 @@
 
 ![surefireDependency](https://user-images.githubusercontent.com/59940368/205166681-dc5a20ea-4ef0-402b-bbaa-0790b1936173.png)
 
+##### Adding Annotations: 
+##### @RepeatedTests
+![repeatTests](https://user-images.githubusercontent.com/59940368/205188184-70e2b24f-9368-4ce8-a74d-279afc5c4d98.png)
+
+##### @BeforeEach @BeforeAll @AfterEach @AfterAll
+![beforeEachBeforeAllAfterEachAfterAll](https://user-images.githubusercontent.com/59940368/205188321-b69f2537-104f-4e1f-8367-e58e93a78272.png)
