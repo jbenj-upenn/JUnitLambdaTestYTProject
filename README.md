@@ -17,7 +17,6 @@
 ##### Around 00:26:45, there is a discussion on downloading Maven to run everything from the commandline
 
 ![mavenDownload](https://user-images.githubusercontent.com/59940368/205166661-e2c06e0e-01db-4f2d-b1aa-af8b41817278.png)
->>>>>>> b8e529a56ef724159b89336ef7b826862c28c5fe
 
 ##### Surefire dependency for running tests from command line
 
